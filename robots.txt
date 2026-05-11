@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pluggedtmap.github.io/snippets-hgtvqj/sitemap.xml
